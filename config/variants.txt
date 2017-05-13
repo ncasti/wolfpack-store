@@ -1,0 +1,25 @@
+Gadgets
+	base = true
+	vertical = electronics_it
+	background_color = #FFFFFF
+	primary_color = #FC5151
+	secondary_color = #A1A1A1
+	text_primary_color = #2D2D2D
+Bonus
+	vertical = gifts
+	background_color = #FFFFFF	
+	primary_color = #FF5AB0	
+	secondary_color = #4DF4FF
+	text_primary_color = #32456E
+Rolls
+	vertical = food_drinks
+	background_color = #FFFFFF
+	primary_color = #B3A15B
+	secondary_color = #9D9084
+	text_primary_color = #2E8F6B
+Glow
+	vertical = clothing_accesories
+	background_color = #DFEBED
+	primary_color = #F78536
+	secondary_color = #497285
+	text_primary_color = #2B4450

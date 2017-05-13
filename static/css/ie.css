@@ -1,0 +1,27 @@
+#product-listing .product,
+.dest-gral,
+.dest{
+	float:left;
+	margin-left:10px;
+	margin-top:10px;
+}
+
+.product-table{
+	margin-bottom:10px;
+	border-spacing:0;
+}
+
+/* Navigation */
+#navigation{
+	display:block;
+    overflow:hidden;
+}
+
+#menu{
+	display:block;
+	float:left;
+}
+
+.mobile {
+    display: none;
+}
